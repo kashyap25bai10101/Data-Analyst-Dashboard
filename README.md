@@ -34,5 +34,5 @@ Insightify is an interactive data analytics dashboard that allows users to uploa
 ## Sample Dataset
 A sample CSV file is provided for testing.
 
-## 📌 Conclusion
+##  Conclusion
 This project demonstrates basic data analysis and visualization techniques using Python.
